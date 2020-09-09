@@ -18,6 +18,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://www.w3schools.com/react/react_intro.asp"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Try the W3Schools Tutorial
+        </a>
       </header>
     </div>
   );
